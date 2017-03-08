@@ -6,5 +6,6 @@
 
 ##What it looks like:
 ![Weather](prev.png)
-*Go here for a demo:* [Amolle](http://amolle.com/weather)
+_Go here for a demo: [Amolle](http://amolle.com/weather)_
+
 ###### By Andreas "Molle" Moldskred
